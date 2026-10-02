@@ -11,4 +11,4 @@ Feature: Verifying place apis
     Examples:
       | name | language | address |
       | Suresh | Kannada | Kodegehalli |
-   # | Narayanappa | Telugu | Krishnarajapura|
+      | Narayanappa | Telugu | Krishnarajapura|
